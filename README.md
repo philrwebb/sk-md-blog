@@ -1,10 +1,10 @@
-# create-svelte
+# mdsvex based blog
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+Quick demo of a mdsvex based blog approach using import.meta.glob to reflect on md files
 
-## Creating a project
+## getting this repository
 
-If you're seeing this, you've probably already done this step. Congrats!
+git clone 
 
 ```bash
 # create a new project in the current directory
